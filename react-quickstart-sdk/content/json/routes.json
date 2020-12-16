@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/",
+    "exact": true,
+    "component": "HomePage",
+    "cmsassetid": 0
+  }
+]
